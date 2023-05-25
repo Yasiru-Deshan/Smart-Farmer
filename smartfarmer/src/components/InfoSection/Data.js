@@ -63,7 +63,7 @@ export const homeObjFour = {
     "In today's rapidly advancing technological landscape, there is a growing need for intelligent systems that can assist individuals in navigating through challenging environments, while also facilitating socialization and object recognition. This research problem aims to address the following key challenges: (1) navigating through known unknown obstacles, (2) incorporating facial age, gender, and emotion detection for socialization purposes, (3) identifying staircases and assisting individuals to reach their destinations, and (4) recognizing and interpreting various objects, such as handwritten papers, advertising boards, logos, and cash notes.",
   buttonLabel: "Start Now",
   imgStart: false,
-   img: require("../../images/Picture1.jpg").default,
+   img: require("../../images/svg-4.svg").default,
  //img: require("../../images/WhatsApp Image 2023-05-25 at 17.19.53.jpg").default,
   alt: "Car",
   dark: true,

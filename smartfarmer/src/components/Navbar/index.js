@@ -12,7 +12,7 @@ import { Nav,
          NavBtn,
          NavBtnLink
         } from './NavbarElements'; 
-import image from './../../images/LOOK ai.png'
+
 
 const Navbar = ({ toggle}) => {
 

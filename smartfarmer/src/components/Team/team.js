@@ -1,12 +1,12 @@
 import React from "react";
 import "./objectives.css";
 import ObjectiveCards from "./ObjectiveCards";
-import yasiru from './../../images/profile-pic (2).png';
-import dinuka from './../../images/Ms_-Dinuka.jpg';
-import mimi from './../../images/WhatsApp Image 2023-05-25 at 22.14.26.jpg';
-import kavindya from './../../images/WhatsApp Image 2023-05-25 at 22.14.48.jpg'
-import jenny from './../../images/received_1709833112455269.jpeg';
-import gayan from './../../images/116440699_3279424272282680_3542454906818763166_n.jpg';
+import madam from "./../../images/madam.jpg";
+import sir from "./../../images/Picture4.jpg";
+import dinuka from "./../../images/dinuka.jpg";
+import dulantha from "./../../images/dulantha.jpg";
+import chathurika from "./../../images/chathurika.jpg";
+import sadani from "./../../images/sadani.png";
 import { TopLine } from "../InfoSection/InfoElements";
 
 const Team = () => {
@@ -39,14 +39,14 @@ const Team = () => {
               className="offerImg"
               alt=""
               style={{ height: "300px", objectFit: "cover" }}
-              src={dinuka}
+              src={madam}
             ></img>
             <p></p>
-            <h3 className="offerTitle">Mrs.Dinuka Wijendra</h3>
+            <h3 className="offerTitle">MS. SURIYAA KUMARI</h3>
             <div style={{ padding: "20px" }}>
               <TopLine>Supervisor</TopLine>
             </div>
-            <p className="offerDescription">✉ dinuka.w@sliit.lk</p>
+            <p className="offerDescription">✉ suriyaa.k@sliit.lk</p>
             <p className="offerPrice"></p>
             {/* <button className="offerButton">View Details</button> */}
           </div>
@@ -61,14 +61,14 @@ const Team = () => {
               className="offerImg"
               style={{ height: "300px", objectFit: "cover" }}
               alt=""
-              src={jenny}
+              src={sir}
             ></img>
             <p></p>
-            <h3 className="offerTitle">Ms. Jenny Krishara</h3>
+            <h3 className="offerTitle">MR. SUPUNYA SWARNAKANTHA</h3>
             <div style={{ padding: "20px" }}>
               <TopLine>Co-Supervisor</TopLine>
             </div>
-            <p className="offerDescription">✉ jenny.k@sliit.lk</p>
+            <p className="offerDescription">✉ ravi.s@sliit.lk</p>
             <p className="offerPrice"></p>
             {/* <button className="offerButton">View Details</button> */}
           </div>
@@ -88,13 +88,13 @@ const Team = () => {
       >
         <div>
           <div data-aos="fade-up" className="offerCard">
-            <img className="offerImg" alt="" src={yasiru}></img>
+            <img className="offerImg" alt="" src={dinuka}></img>
             <p></p>
-            <h3 className="offerTitle">W M Y Deshan</h3>
+            <h3 className="offerTitle">M D SWarnasooriya</h3>
             <div style={{ padding: "20px" }}>
               <TopLine>Group Leader</TopLine>
             </div>
-            <p className="offerDescription">✉ it19251110@my.sliit.lk</p>
+            <p className="offerDescription">✉ it19214412@my.sliit.lk</p>
             <p className="offerPrice"></p>
             {/* <button className="offerButton">View Details</button> */}
           </div>
@@ -105,14 +105,14 @@ const Team = () => {
               className="offerImg"
               alt=""
               style={{ height: "300px", objectFit: "cover" }}
-              src={mimi}
+              src={dulantha}
             ></img>
             <p></p>
-            <h3 className="offerTitle">G L M M Mendis</h3>
+            <h3 className="offerTitle">G D M Godahewage</h3>
             <div style={{ padding: "20px" }}>
               <TopLine>Group Member</TopLine>
             </div>
-            <p className="offerDescription">✉ it19986654@my.sliit.lk</p>
+            <p className="offerDescription">✉ it19106816@my.sliit.lk</p>
             <p className="offerPrice"></p>
             {/* <button className="offerButton">View Details</button> */}
           </div>
@@ -123,14 +123,14 @@ const Team = () => {
               className="offerImg"
               alt=""
               style={{ height: "300px", objectFit: "cover" }}
-              src={kavindya}
+              src={chathurika}
             ></img>
             <p></p>
-            <h3 className="offerTitle">K C Gunathilake</h3>
+            <h3 className="offerTitle">B V C Bhashini</h3>
             <div style={{ padding: "20px" }}>
               <TopLine>Group Member</TopLine>
             </div>
-            <p className="offerDescription">✉ it19112442@my.sliit.lk</p>
+            <p className="offerDescription">✉ it19166452@my.sliit.lk</p>
             <p className="offerPrice"></p>
             {/* <button className="offerButton">View Details</button> */}
           </div>
@@ -141,14 +141,14 @@ const Team = () => {
               className="offerImg"
               alt=""
               style={{ height: "300px", objectFit: "cover" }}
-              src={gayan}
+              src={sadani}
             ></img>
             <p></p>
-            <h3 className="offerTitle">H M G M Bandara</h3>
+            <h3 className="offerTitle">Manukalpani G S</h3>
             <div style={{ padding: "20px" }}>
               <TopLine>Group Member</TopLine>
             </div>
-            <p className="offerDescription">✉ it19954738@my.sliit.lk</p>
+            <p className="offerDescription">✉ it19111698@my.sliit.lk</p>
             <p className="offerPrice"></p>
             {/* <button className="offerButton">View Details</button> */}
           </div>

@@ -1,7 +1,6 @@
 import React from "react";
 import "./objectives.css";
 import Cards from "../Cards/cards";
-import img1 from "./../../images/profile-pic (2).png";
 
 const experianceCards = [
   {
